@@ -368,6 +368,8 @@ header .container .nav ul li a:hover {
 
 @media (max-width: 767px) {
   .sec4 .container .card {
+    display: block;
+    margin: 0 auto;
     width: 90%;
   }
 }
